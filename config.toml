@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://memory-overload.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Memory Overload"
 theme = "ananke"
